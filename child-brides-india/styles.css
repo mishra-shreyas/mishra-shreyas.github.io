@@ -1,16 +1,17 @@
 img, p, h1, h2, h3, .divider {
 	width: 100%;
-	max-width: 600px;
+	max-width: 700px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 .divider {
     height: 2px;
-    background-color: #0868ac;
+    background: linear-gradient(to right, #7a0177, transparent);
     margin-top: 10px;
     margin-bottom: 10px;
-    }
+}
+
 
 .name{
     font-size: 20px;
@@ -23,6 +24,13 @@ img, p, h1, h2, h3, .divider {
 
 
 #img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+
+#img3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
