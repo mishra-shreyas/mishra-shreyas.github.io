@@ -36,6 +36,7 @@ img, p, h1, h2, h3, .divider {
     margin-right: auto;
     max-width: 750px;
     padding: 15px 0px;
+    transform: translateX(60px); 
 }
 
 #img4 {
